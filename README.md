@@ -9,7 +9,7 @@ poke_capture :	generic name
 0000 :		pokedex id  
 000 :		alternative form #1  
 xx :		gender specific  
-y :		dynamax attribute  
+y :		gigamax attribute  
 00000000 :	alternative form #2  
 z :		unknown parameter  
 t :		shininess  
