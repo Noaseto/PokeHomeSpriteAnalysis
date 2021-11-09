@@ -20,5 +20,5 @@ t :		shininess
 - gender specific :	mf(MaleFemale), md(MaleData), fd(FemaleData), mo(MaleOnly), fo(FemaleOnly), uk(Unknown) // md and fd always exist together
 - dynamax attribute :	n (normal) or g (gigamax)
 - alternative form#2 :	alcremy (different danse)
-- unknown parameter :	always is an "f" for all sprites, maybe 
+- unknown parameter :	always is an "f" for all sprites
 - Shininess :		n (normal) or r(Rare:Shiny)
