@@ -6,12 +6,12 @@ if script does'nt work, download link : https://media.pokekalos.fr/img/pokemon/h
 poke_capture_0000_000_uk_n_00000000_f_n.png
 
 poke_capture :	generic name  
-0000 :		pokedex id
+0000 :		pokedex id  
 000 :		alternative form #1  
 xx :		gender specific  
-y :		dynamax attribute
-00000000 :	alternative form #2 
-z :		unknown parameter
+y :		dynamax attribute  
+00000000 :	alternative form #2  
+z :		unknown parameter  
 t :		shininess  
 
 # All parameters
