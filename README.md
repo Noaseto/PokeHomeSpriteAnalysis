@@ -1,6 +1,7 @@
 # Disclaimer
 Since I do not own the sprites, I included a small script to run before hand to download all the sprites. They are downloaded from pokekalos.fr and the folder contains 2980 files.
-if script does'nt work, download link : https://media.pokekalos.fr/img/pokemon/home-sprites.zip
+if script doesn't work, download link : https://media.pokekalos.fr/img/pokemon/home-sprites.zip  
+All files should be directly inside home-sprites folder
 
 # Example File
 poke_capture_0000_000_uk_n_00000000_f_n.png
